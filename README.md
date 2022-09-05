@@ -17,6 +17,6 @@ Github
 - https://15445.courses.cs.cmu.edu/fall2022/slides/01-introduction.pdf
 - https://15445.courses.cs.cmu.edu/fall2022/notes/01-introduction.pdf
 
-# 02 - Modern SQL (CMU Intro to Database Systems / Fall 2022)
+## 02 - Modern SQL (CMU Intro to Database Systems / Fall 2022)
 - https://15445.courses.cs.cmu.edu/fall2022/slides/02-modernsql.pdf
 - https://15445.courses.cs.cmu.edu/fall2022/notes/02-modernsql.pdf
