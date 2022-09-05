@@ -10,7 +10,7 @@ Gradescope
 Discord
 - https://discord.com/channels/724929902075445281/724929902943404074
 
-github
+Github
 - https://github.com/cmu-db/bustub/discussions
 
 ## 01 - Relational Model & Relational Algebra
