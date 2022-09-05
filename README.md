@@ -7,6 +7,9 @@ Schedule
 Gradescope
 - https://www.gradescope.com/courses/425272
 
+Assignemnt
+- https://15445.courses.cs.cmu.edu/fall2022/assignments.html
+
 Discord
 - https://discord.com/channels/724929902075445281/724929902943404074
 
